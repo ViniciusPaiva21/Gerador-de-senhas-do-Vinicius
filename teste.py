@@ -5,7 +5,7 @@ import string
 def gerar_senha(tamanho):
     """
     Esta função gera uma senha segura com o tamanho especificado.
-    Ela mistura letras maiúsculas, minúsculas, números e símbolos.
+    Ela mistura letras maiúsculas, minúsculas, números e símbolos...
     """
     # Define o universo de caracteres possíveis para a senha
     caracteres = string.ascii_letters + string.digits + string.punctuation
